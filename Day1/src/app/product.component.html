@@ -1,0 +1,26 @@
+<div>
+    <button (click)="PersonList()">PersonList</button>
+
+</div>
+
+<h1>------------Person Details---------</h1>
+<table>
+
+    <head>
+        <tr>
+            <th>ID</th>
+            <th>Name</th> 
+        </tr>
+    </head>
+
+    <body>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <tr *ngFor="let person of temp">
+            <td><a [routerLink]="['/product',person.productId]">{{person.productId}}</a></td>
+            <td>{{person.name}}</td>
+            <td>{{person.price}}</td>
+        </tr>
+    </body>
+</table>

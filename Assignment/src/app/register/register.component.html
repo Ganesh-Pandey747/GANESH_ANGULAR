@@ -1,0 +1,21 @@
+<form [formGroup] ="frmGroup"  (ngSubmit)="RegisterData(frmGroup.value)">
+    <div>
+        <label>UserName</label>
+        <input type="text" formControlName="UserName">
+    </div>
+    <br>
+    <div>
+        <label>Password</label>
+        <input type="text"formControlName="Password">
+    </div>
+    <br>
+    <div>
+        <label>Age</label>
+        <input type="text" formControlName="Age">
+    </div>
+    <br>
+    <div>
+
+        <input type="submit" value="Register">
+    </div>
+</form>

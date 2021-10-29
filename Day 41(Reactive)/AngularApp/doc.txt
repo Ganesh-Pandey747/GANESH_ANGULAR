@@ -1,0 +1,9 @@
+ng new AngularApp
+
+ng g c SignIn
+ng g c SignUp
+
+ng g s About
+
+Note:
+Angular can only access static files like images and config files from assets folder.

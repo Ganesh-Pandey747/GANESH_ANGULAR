@@ -1,0 +1,80 @@
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\appsettings.json
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Humanizer.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Npgsql.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.xml
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.RazorTargetAssemblyInfo.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.csproj.CopyComplete
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\deepti.bansal\TaazaaTraining\Day33\Assignment\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\appsettings.Development.json
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\appsettings.json
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\AutoMapper.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Humanizer.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Npgsql.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.xml
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\scopedcss\bundle\Assignment.styles.css
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.RazorTargetAssemblyInfo.cache
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.csproj.CopyComplete
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\GaneshAngular\Day 41(Template)\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+
+<button (click)="PersonDetails()">PersonInfo</button>
+<div>
+<div *ngIf="persobj">
+Person ID:{{persobj.Id}}
+Person Name:{{persobj.Name}}
+</div>
+</div>
+
+
+
+
+
+<button (click)="PersonDetailsList()">PersonList</button>
+<h1>Person Details</h1>
+<table>
+    <head>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    </head>
+    <body>
+        <tr *ngFor="let temp of personlist">
+
+            <td>{{temp.Id}}</td>
+
+            <td>{{temp.Name}}</td>
+
+        </tr>
+    </body>
+</table>
